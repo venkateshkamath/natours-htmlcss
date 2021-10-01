@@ -8,8 +8,8 @@ Dark green: #28b485
 */
 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   box-sizing: border-box; /* this will deprecate the default behavior of paading and boxing to the entire page */
 }
 
